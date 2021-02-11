@@ -3,3 +3,9 @@
 
 // prints "hi" in the browser's dev tools console
 console.log("hi");
+console.log("This Web site make by hrismer");
+var tit = 11;
+
+var titg = 11;
+
+var titj = tit+titg;
