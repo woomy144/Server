@@ -1,9 +1,10 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
-  background-color: pink;
+  font-family: Ubuntu;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to left, #00b2e1, #4fdaff);
 }
 
 h1 {
@@ -37,5 +38,4 @@ h3 {
   background-color: #DDE6EB;
   background-image: url(media.discordapp.net/attachments/711385424144236597/722597417442213928/screenshot_AVATAR.png);
   box-sizing: border-box;
-  overflow: hidden;
 }
